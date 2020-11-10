@@ -1,3 +1,10 @@
 numpy==1.14.5
 pandas==1.0.4
-
+fuzzywuzzy==0.18.0
+bs4==0.0.1
+geopandas==0.8.1
+pycountry==20.7.3
+matplotlib==3.3.2
+seaborn-0.11.0
+bokeh==2.2.3
+sklearn==0.0
