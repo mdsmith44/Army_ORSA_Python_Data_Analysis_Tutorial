@@ -98,6 +98,7 @@ All the courses are great, and also will give you some useful code you can re-us
 Some other freely available resources that could be useful:
 - W3 Python Tutorial (https://www.w3schools.com/python/).  A good free tutorial, which also makes for a nice easilly accessible reference.
 - An Introduction to Statistical Learning: https://link.springer.com/book/10.1007/978-1-4614-7138-7.  Technically this one gives its examples in R, but it's a great overview of the math and theory of machine learning topics so can't make a list of Data Analysis references without it!
+- Kaggle Courses (https://www.kaggle.com/learn/overview) offers a variety of useful and succinct lessons covering many areas of data analysis in python.  All courses are presented through interactive Jupyter notebooks, similar to this tutorial. 
 
 Any and all feedback welcome!  
 -Matt Smith, mdsmith44@gmail.com
